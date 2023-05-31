@@ -1,0 +1,101 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(img/Breakfast.jpg);
+    background-size: cover;
+}
+
+.retangulo-1{
+    background-color: black;
+    height: 551px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 91px;
+}
+
+.retangulo-2{
+    background-color: #ffb800;
+    height: 480px;
+    left: 0;
+    position: absolute;
+    top: 500px;
+    width: 91px;
+}
+
+.retangulo-3{
+    background-color: tomato;
+    height: 677px;
+    left: 91px;
+    position: absolute;
+    top: 0px;
+    width: 825px;
+}
+
+.retangulo-4{
+    background-color: white;
+    height: 305px;
+    left: 89px;
+    position: absolute;
+    top: 677px;
+    width: 550px;
+}
+
+.retangulo-5{
+    background-color: aqua;
+    height: 305px;
+    left: 620px;
+    position: absolute;
+    top: 677px;
+    width: 550px;
+}
+
+.retangulo-6{
+    background-color: rgb(77, 87, 63);
+    height: 70px;
+    left: 800px;
+    position: absolute;
+    top: 499px;
+    width: 216px;
+}
+
+.retangulo-7{
+    background-color: greenyellow;
+    height: 45px;
+    left: 1659px;
+    position: absolute;
+    top: 46px;
+    width: 244px;
+}
+
+.log-in{
+    height: 19px;
+    width: 441px;
+    left: 1700px;
+    position: absolute;
+    top: 59px;
+}
+
+.recipes{
+    left: 182px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 397px;
+    width: 530px;
+}
+
+.about{
+    left: 478px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 55px;
+    width: 74px;
+}
